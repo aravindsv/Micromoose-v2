@@ -1,0 +1,4 @@
+[submodule "STM32Library"]
+	path = STM32Library
+	url = https://github.com/aravindsv/STM32Library.git
+	branch = cleanup
